@@ -1,6 +1,6 @@
 # Challenge-ONE - Encriptador de Texto
 Visualiza mi Página en el siguiente
-<a href="https://ldp33.github.io/Challenge-ONE-Encriptador-de-Texto/">Enlace</a>
+<a href="https://ldp33.github.io/Challenge-ONE-Encriptador-de-Texto/">Enlace</a>.
 
  <p>El desafio consiste en crear nuestro encriptador de texto. Es necesario trabajar en una aplicación que encripte textos y permita intercambiar mensajes secretos con otras personas que sepan el secreto de la encriptación utilizada.</p>
   <p>Las "llaves" de encriptación que se deben utilizar son las siguientes:</p>
